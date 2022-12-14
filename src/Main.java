@@ -6,18 +6,18 @@
 // Additional Requirements were found during task analysis:
 // 1. don't change/update original input data;
 // 2. handle possible separating symbols: commas, dots, extra spaces;
-// 3. make sure that words like "Go" and "go" are counted => 2 words "go"
+// 3. make sure that words like "Go" and "go" are counted => 2 words "go";
 // 4. handle input file with more than 1 line;
 // 5. make code structure as readable as possible.
 // Optional Requirements (e.g. for the next versions):
 // 1. read path to file from the keyboard;
 // 2. provide message 'file not found' in case of issue with the file;
 // 3. make path to file OS independent (currently works for Windows only);
-// 4. upgrade algorithm: stop searching for a word when it was found already before
-// 5. handle more possible separators: semicolon, tabulation, hyphen, etc.
+// 4. upgrade algorithm: stop searching for a word when it was found already before;
+// 5. handle more possible separators: semicolon, tabulation, hyphen, etc.;
 // 6. handle popular encoding types;
 // 7. use list instead of string (or array with 2 levels)
-// 8. implement choice for a user how provide the output (save in a file or/and show on screen)
+// 8. implement choice for a user how to provide the output (save in a file or show on screen).
 // ----------------------------------------------------------------------------
 // Please don't hesitate to provide any feedback: ivan.bilenkyi.it@gmail.com
 
